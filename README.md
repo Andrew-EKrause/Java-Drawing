@@ -4,13 +4,13 @@
 
 ## Description
 **_First Use of the Java Programming Language in College_** <br/>
-Add more...
+Add more....
 
 **Resources for Project:**
 - Java
 
 # Running / Viewing the Project
-Add more...
+Add more....
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
