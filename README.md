@@ -6,7 +6,7 @@ A simple drawing that is generated when running the Java program. This was the v
 
 **Resources for Project:**
 - Java
-- Eclipse
+- Eclipse (IDE)
 
 # Running / Viewing the Project
 ## Eclipse (IDE)
