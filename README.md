@@ -16,10 +16,14 @@ A simple drawing that is generated when running the Java program. This project w
 2. On this repository page, navigate to the "Code" button and click the "Download Zip" option.
 3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
 4. Double click on the zip file to open or "unzip" it so you can access the file contents.
-5. Open up Eclipse, and click on the "Browse" button to select the downloaded folder as a new workspace.
-6. Navigate to the location where you placed the zipped folder, which should be unzipped at this point.
-7. Inside the folder, which is called "Java-Drawing-Master", select the folder called "KrauseFirstDrawing" and open it in Eclipse.
-8. Open the "Building.java" file in Eclipse by double clicking it. Then hit the green run icon, which is a green circle with a white triangle inside of it.
+5. Open up Eclipse, and type "Drawing" as the name of the workspace. Then click the "launch" button.
+6. If any settings appear, click the "Hide" option located in the upper righthand corner of the screen.
+7. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
+8. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate window.
+9. In the separate window, select the "Directory..." button. This should open your file system folder. In the folder, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
+10. Select the "KrauseFirstDrawing" folder. Click "Open". This will add the path the the directory in the separate window you have opened. 
+11. Then in the separate window, click "Finish".
+12. Open the "Building.java" file in Eclipse by double clicking it. Then hit the green run icon, which is a green circle with a white triangle inside of it. The program should open a separate window with the drawing image in it.
 
 ## Command Line
 
