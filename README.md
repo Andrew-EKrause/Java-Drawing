@@ -12,7 +12,7 @@ A simple drawing that is generated when running the Java program. This project w
 ## Eclipse (IDE)
 1. First, make sure that you have the Eclipse IDE to run the program. If you need to download Eclipse, the link is provided here: https://www.eclipse.org/downloads/.
 2. On this repository page, go to the "Code" button and click the "Download Zip" option.
-3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
+3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
 4. Double click on the zip file to open or "unzip" it so you can access the file contents.
 5. Open up Eclipse, and type "Drawing" as the name of the workspace. Then click the "launch" button.
 6. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
@@ -29,9 +29,9 @@ A simple drawing that is generated when running the Java program. This project w
    -Mac: https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac<br/>
    -Windows: https://docs.microsoft.com/en-us/windows/terminal/
 2. On this repository page, go to the "Code" button and click the "Download Zip" option.
-3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
+3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
 4. Double click on the zip file to open or "unzip" it so you can access the file contents.
-5. In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "KrauseFirstDrawing" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
+5. In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are first inside of the "Java-Drawing-master" folder and then inside of the "KrauseFirstDrawing" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
    -Linux and Max: http://mally.stanford.edu/~sr/computing/basic-unix.html<br/>
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
 6. Inside the "KrauseFirstDrawing" folder on your terminal, type the following command: java Building.java.
