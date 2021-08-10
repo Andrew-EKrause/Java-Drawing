@@ -39,7 +39,7 @@ A simple drawing that is generated when running the Java program. This project w
 6. Inside the "KrauseFirstDrawing" folder on your terminal, type the following command: java Building.java.
 7. After running the command in the previous step, a new window should open with the drawing image displayed.
 
-## Drawing Image Created in Java
+# Drawing Image Created in Java
 <img width="687" alt="FirstJavaDrawing_Image" src="https://user-images.githubusercontent.com/57727121/128931520-587ca5ae-1e50-42db-aacd-8232136eecdc.png">
 
 <p>&nbsp;</p>
