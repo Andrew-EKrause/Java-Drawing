@@ -16,9 +16,9 @@ A simple drawing that is generated when running the Java program. This project w
 2. On this repository page, navigate to the "Code" button and click the "Download Zip" option.
 3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
 4. Double click on the zip file to open or "unzip" it so you can access the file contents.
-5. Open up Eclipse, and accept the default options to open a new workspace.
-6. In Eclipse, got to File->Switch Workspace. Select the "Other" option. This should open your file browser.
-7. Select the opened zip file, which is called "KrauseFirstDrawing".
+5. Open up Eclipse, and click on the "Browse" button to select the downloaded folder as a new workspace.
+6. Navigate to where you placed the zipped folder, which should be unzipped at this point.
+7. Inside the folder, which is called "Java-Drawing-Master", select the folder called "KrauseFirstDrawing" to open in Eclipse.
 8. Open the "Building.java" file in Eclipse by double clicking it. Then hit the green run icon, which is a green circle with a white triangle inside of it.
 
 ## Command Line
