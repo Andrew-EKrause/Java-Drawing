@@ -31,6 +31,7 @@ A simple drawing that is generated when running the Java program. This project w
 ## Drawing Image Created in Java
 <img width="687" alt="FirstJavaDrawing_Image" src="https://user-images.githubusercontent.com/57727121/128931520-587ca5ae-1e50-42db-aacd-8232136eecdc.png">
 
+<p>&nbsp;</p>
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
