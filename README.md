@@ -4,13 +4,22 @@
 
 ## Description
 **_First Use of the Java Programming Language in College_** <br/>
-Add more....
+A simple drawing that is generated when running the Java program. This project was the very first use of the Java programming language in my "Software Design I" class at the University of Wisconsin - La Crosse. The Java Drawing program marked the beginning of my eventful journey with not only Java, but many other programming languages. Therefore, I decided to post this freshman-year project to GitHub. When run, the program opens a separate window with a drawing of a clock tower, which is based on the university clock tower on my campus. The drawing was created by using Java classes, such as the Oval and Rectangle class, to generate basic shapes. The basic shapes were organized on the screen to form the drawing that is generated upon running this program.
 
 **Resources for Project:**
 - Java
+- Eclipse
 
 # Running / Viewing the Project
-Add more....
+## Eclipse
+1. First, make sure that you have the Eclipse IDE to run the program. If you need to download Eclipse, the link is provided here: https://www.eclipse.org/downloads/.
+2. On this repository page, navigate to the "Code" button and click the "Download Zip" option.
+3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
+4. Double click on the zip file to open or "unzip" it so you can access the file contents.
+5. Open up Eclipse, and click the new project option if that option pops up. Otherwise, you should see an empty workspace.
+6. Go to File->Open File
+
+## Command Line
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
