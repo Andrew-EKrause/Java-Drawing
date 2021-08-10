@@ -19,13 +19,18 @@ A simple drawing that is generated when running the Java program. This project w
 5. Open up Eclipse, and type "Drawing" as the name of the workspace. Then click the "launch" button.
 6. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
 7. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
-8. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate window.
-9. In the separate window, select the "Directory..." button. This should open your file system folder. In the folder, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
-10. Select the "KrauseFirstDrawing" folder. Click "Open". This will add the path the the directory in the separate window you have opened. 
-11. Then in the separate window, click "Finish".
-12. Open the "Building.java" file in Eclipse by double clicking it. Then hit the green run icon, which is a green circle with a white triangle inside of it. The program should open a separate window with the drawing image in it.
+8. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate Eclipse window.
+9. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
+10. Select the "KrauseFirstDrawing" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
+11. Then in the separate Eclipse window, click "Finish".
+12. Open the project folder that should now be in your workspace by double clicking it. Then open the "(default package)" folder by double clicking it.
+13. Next, open the "Building.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program should open a separate window with the drawing image.
 
 ## Command Line
+
+## Drawing Image Created in Java
+<img width="687" alt="FirstJavaDrawing_Image" src="https://user-images.githubusercontent.com/57727121/128931520-587ca5ae-1e50-42db-aacd-8232136eecdc.png">
+
 
 **_@Author: Andrew Krause_** <br/>
 *LinkedIn:* https://www.linkedin.com/in/andrew-krause-b6aa21179/ <br/>
