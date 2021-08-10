@@ -17,7 +17,7 @@ A simple drawing that is generated when running the Java program. This project w
 3. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads" or "Desktop".
 4. Double click on the zip file to open or "unzip" it so you can access the file contents.
 5. Open up Eclipse, and type "Drawing" as the name of the workspace. Then click the "launch" button.
-6. If any settings appear, click the "Hide" option located in the upper righthand corner of the screen.
+6. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
 7. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
 8. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate window.
 9. In the separate window, select the "Directory..." button. This should open your file system folder. In the folder, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
