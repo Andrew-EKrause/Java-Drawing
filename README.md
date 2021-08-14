@@ -11,7 +11,7 @@ A simple drawing that is generated when running the Java program. This was the v
 # Running / Viewing the Project
 ## Eclipse (IDE)
 1. First, make sure that you have the Eclipse IDE to run the program. If you need to download Eclipse, the link is provided below. <br/>
-   -Eclipse (IDE) Download: https://www.eclipse.org/downloads/. 
+   -Eclipse (IDE) Download: https://www.eclipse.org/downloads/
 2. Next, make sure that you have Java installed in your system. Go to your settings/system preferences and search for Java in your system. If you do not already have Java installed, follow the link below. The link will bring you to a website for downloading Java. The website will give you the option to download Java for Mac or Windows. <br/>
    -Java Download: https://java.com/en/download/help/download_options.html
 3. On this repository page, go to the "Code" button and click the "Download Zip" option.
