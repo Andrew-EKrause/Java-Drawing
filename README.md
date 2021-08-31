@@ -31,7 +31,7 @@ A simple drawing that is generated when running the Java program. This was the v
 1. First, make sure that you have your terminal open. Information about your terminal can be found here:<br/>
    -Mac: https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac<br/>
    -Windows: https://docs.microsoft.com/en-us/windows/terminal/
-2. Next, make sure that you have Java installed in your system. Go to your settings/system preferences and search for Java in your system. If you do not already have Java installed, follow the link below. You will be brought to a website for downloading Java. The website will give you the option to download Java for Mac or Windows. <br/>
+2. Next, make sure that you have Java installed in your system. Go to your settings/system preferences (do this on your computer and not in your terminal) and search for Java in your system. If you do not already have Java installed, follow the link below. You will be brought to a website for downloading Java. The website will give you the option to download Java for Mac or Windows. <br/>
    -Java Download: https://java.com/en/download/help/download_options.html
 3. On this repository page, go to the "Code" button and click the "Download Zip" option.
 4. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
