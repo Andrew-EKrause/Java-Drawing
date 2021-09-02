@@ -21,7 +21,7 @@ A simple drawing that is generated when running the Java program. This was the v
 7. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
 8. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
 9. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate Eclipse window.
-10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
+10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "KrauseFirstDrawing" folder is stored. It should be stored within the folder you downloaded from this repository, which is called "Java-Drawing-master".
 11. Select the "KrauseFirstDrawing" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
 13. Open the project folder that should now be in your workspace by double clicking it. Then open the "(default package)" folder by double clicking it.
