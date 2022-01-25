@@ -2,7 +2,7 @@
 
 ## Description
 **_First Use of the Java Programming Language in College_** <br/>
-A simple drawing that is generated when running the Java program. This was the very project I made using the Java programming language. I created this project in my "Software Design I" class during my freshman year at the University of Wisconsin - La Crosse. The Java Drawing program marked the beginning of my eventful journey with not only Java, but many other programming languages. Therefore, I decided to post this freshman year project to GitHub. When run, the program opens a separate window with a drawing of a clock tower. The drawing is based on the university clock tower on my campus. The drawing was created by using Java classes, such as the Oval and Rectangle class, to generate basic shapes. The basic shapes were organized on the screen to form the drawing that is generated upon running this program.
+A simple drawing that is generated when running the Java program. This was the first project I made using the Java programming language. I created this project in my "Software Design I" class during my freshman year at the University of Wisconsin - La Crosse. The Java Drawing program marked the beginning of my eventful journey with not only Java, but many other programming languages. Therefore, I decided to post this freshman year project to GitHub. When run, the program opens a separate window with a drawing of a clock tower. The drawing is based on the university clock tower on my campus. The drawing was created by using Java classes, such as the Oval and Rectangle class, to generate basic shapes. The basic shapes were organized on the screen to form the drawing that is generated upon running this program.
 
 **Resources for Project:**
 - Java
